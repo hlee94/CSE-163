@@ -1,3 +1,7 @@
+//Got code from github: https://github.com/christianbnvdz/CSE163/tree/master/geomap
+// Just tried to understand how it will work
+// SomaliaPopDensity.html is from that github as well
+// csv and json file is done by me
 //Set margins
 var margin = {top: 0, right: 0, bottom: 0, left: 0};
 //Set visualization's width and height
