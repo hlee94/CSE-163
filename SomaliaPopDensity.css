@@ -1,0 +1,31 @@
+#visTitle {
+  text-align: center;
+  font-family: sans-serif;
+  color: #A60F14;
+}
+
+#tooltip {
+  position: absolute;
+  width: 140px;
+  height: 100px;
+  text-align: center;
+  background-color: transparent;
+  border-color: transparent;
+  color: transparent;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+}
+
+#tooltip p {
+  margin: 5;
+  font-size: 10px;
+}
+
+#stateField {
+  font-size: 12px;
+}
+
+.hidden {
+  display: none;
+}
